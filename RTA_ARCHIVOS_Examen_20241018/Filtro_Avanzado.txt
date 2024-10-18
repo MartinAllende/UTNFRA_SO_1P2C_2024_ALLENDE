@@ -1,0 +1,4 @@
+IP Publica: 152.169.185.109
+Usuario: vagrant
+Hash de mi Contraseña es: $y$j9T$iUD8gRclRkZitzZ8ATSNp1$lCrPLGzGyRND6h4i9X/1mXWmAAL/s6Di7Su5iKbLwJ2
+URL de mi repositorio es: https://github.com/upszot/UTN-FRA_SO_Examenes.git
